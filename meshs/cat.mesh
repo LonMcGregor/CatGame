@@ -1,0 +1,209 @@
+<Maratis>
+
+<Mesh>
+
+<Textures num="1">
+	<Texture id="0">
+		<image filename="..\maps\cat.png" mipmap="1" />
+		<mapMode value="1" />
+		<tile u="repeat" v="repeat" />
+		<translate x="0.000000" y="0.000000" />
+		<scale x="1.000000" y="1.000000" />
+		<rotate angle="0.000000" />
+	</Texture>
+</Textures>
+
+<Materials num="1">
+	<Material id="0" type="1">
+		<blend type="0" />
+		<opacity value="1.000000" />
+		<shininess value="50.000000" />
+		<customValue value="0.000000" />
+		<diffuseColor r="0.800000" g="0.800000" b="0.800000" />
+		<specularColor r="0.000000" g="0.000000" b="0.000000" />
+		<emitColor r="0.000000" g="0.000000" b="0.000000" />
+		<customColor r="0.000000" g="0.000000" b="0.000000" />
+		<TexturesPass num="1">
+			<texturePass id="0" texture="0" mode="modulate" mapChannel="0" />
+		</TexturesPass>
+	</Material>
+</Materials>
+
+<BoundingBox minx="-0.840487" miny="-0.827903" minz="-0.975942" maxx="0.948363" maxy="0.873377" maxz="1.024058" />
+
+<SubMeshs num="1">
+	<SubMesh id="0">
+		<BoundingBox minx="-0.840487" miny="-0.827903" minz="-0.975942" maxx="0.948363" maxy="0.873377" maxz="1.024058" />
+		<Vertices num="32">
+			<vertex x="0.053938" y="0.022737" z="-0.975942" />
+			<vertex x="0.777538" y="-0.502983" z="-0.423157" />
+			<vertex x="-0.222447" y="-0.827903" z="-0.423157" />
+			<vertex x="0.777538" y="0.548457" z="-0.423157" />
+			<vertex x="0.053938" y="0.022737" z="-0.975942" />
+			<vertex x="-0.222447" y="-0.827903" z="-0.423157" />
+			<vertex x="-0.840487" y="0.022737" z="-0.423157" />
+			<vertex x="0.053938" y="0.022737" z="-0.975942" />
+			<vertex x="-0.840487" y="0.022737" z="-0.423157" />
+			<vertex x="-0.222447" y="0.873377" z="-0.423157" />
+			<vertex x="-0.222447" y="0.873377" z="-0.423157" />
+			<vertex x="0.948363" y="0.022737" z="0.471273" />
+			<vertex x="-0.222447" y="-0.827903" z="-0.423157" />
+			<vertex x="0.777538" y="-0.502983" z="-0.423157" />
+			<vertex x="0.330323" y="-0.827903" z="0.471273" />
+			<vertex x="-0.669662" y="-0.502983" z="0.471273" />
+			<vertex x="-0.669662" y="0.548457" z="0.471273" />
+			<vertex x="0.777538" y="0.548457" z="-0.423157" />
+			<vertex x="-0.222447" y="0.873377" z="-0.423157" />
+			<vertex x="0.330323" y="0.873377" z="0.471273" />
+			<vertex x="0.948363" y="0.022737" z="0.471273" />
+			<vertex x="0.330323" y="-0.827903" z="0.471273" />
+			<vertex x="-0.840487" y="0.022737" z="-0.423157" />
+			<vertex x="-0.669662" y="-0.502983" z="0.471273" />
+			<vertex x="-0.669662" y="0.548457" z="0.471273" />
+			<vertex x="0.330323" y="0.873377" z="0.471273" />
+			<vertex x="0.948363" y="0.022737" z="0.471273" />
+			<vertex x="0.053938" y="0.022737" z="1.024058" />
+			<vertex x="0.330323" y="-0.827903" z="0.471273" />
+			<vertex x="0.053938" y="0.022737" z="1.024058" />
+			<vertex x="0.330323" y="0.873377" z="0.471273" />
+			<vertex x="0.053938" y="0.022737" z="1.024058" />
+		</Vertices>
+		<Normals num="32">
+			<normal x="0.000000" y="0.000000" z="-1.000000" />
+			<normal x="0.723594" y="-0.525712" z="-0.447188" />
+			<normal x="-0.276376" y="-0.850642" z="-0.447188" />
+			<normal x="0.723594" y="0.525712" z="-0.447188" />
+			<normal x="0.000000" y="0.000000" z="-1.000000" />
+			<normal x="-0.276376" y="-0.850642" z="-0.447188" />
+			<normal x="-0.894406" y="0.000000" z="-0.447188" />
+			<normal x="0.000000" y="0.000000" z="-1.000000" />
+			<normal x="-0.894406" y="0.000000" z="-0.447188" />
+			<normal x="-0.276376" y="0.850642" z="-0.447188" />
+			<normal x="-0.276376" y="0.850642" z="-0.447188" />
+			<normal x="0.894406" y="0.000000" z="0.447188" />
+			<normal x="-0.276376" y="-0.850642" z="-0.447188" />
+			<normal x="0.723594" y="-0.525712" z="-0.447188" />
+			<normal x="0.276376" y="-0.850642" z="0.447188" />
+			<normal x="-0.723594" y="-0.525712" z="0.447188" />
+			<normal x="-0.723594" y="0.525712" z="0.447188" />
+			<normal x="0.723594" y="0.525712" z="-0.447188" />
+			<normal x="-0.276376" y="0.850642" z="-0.447188" />
+			<normal x="0.276376" y="0.850642" z="0.447188" />
+			<normal x="0.894406" y="0.000000" z="0.447188" />
+			<normal x="0.276376" y="-0.850642" z="0.447188" />
+			<normal x="-0.894406" y="0.000000" z="-0.447188" />
+			<normal x="-0.723594" y="-0.525712" z="0.447188" />
+			<normal x="-0.723594" y="0.525712" z="0.447188" />
+			<normal x="0.276376" y="0.850642" z="0.447188" />
+			<normal x="0.894406" y="0.000000" z="0.447188" />
+			<normal x="0.000000" y="0.000000" z="1.000000" />
+			<normal x="0.276376" y="-0.850642" z="0.447188" />
+			<normal x="0.000000" y="0.000000" z="1.000000" />
+			<normal x="0.276376" y="0.850642" z="0.447188" />
+			<normal x="0.000000" y="0.000000" z="1.000000" />
+		</Normals>
+		<TexCoords num="32" mapChannels="0">
+			<texCoord x="0.172641" y="0.950163" />
+			<texCoord x="0.139672" y="0.708245" />
+			<texCoord x="0.000000" y="0.850485" />
+			<texCoord x="0.365662" y="0.800650" />
+			<texCoord x="0.392584" y="0.213514" />
+			<texCoord x="0.365662" y="0.411038" />
+			<texCoord x="0.577108" y="0.288962" />
+			<texCoord x="0.026922" y="0.608567" />
+			<texCoord x="0.211446" y="0.533119" />
+			<texCoord x="0.000000" y="0.411043" />
+			<texCoord x="0.365662" y="1.000000" />
+			<texCoord x="0.312316" y="0.608567" />
+			<texCoord x="0.815476" y="0.608567" />
+			<texCoord x="1.000000" y="0.533119" />
+			<texCoord x="0.788554" y="0.411038" />
+			<texCoord x="0.577108" y="0.533118" />
+			<texCoord x="0.211446" y="0.288963" />
+			<texCoord x="0.788554" y="0.288963" />
+			<texCoord x="0.604031" y="0.213514" />
+			<texCoord x="0.577108" y="0.411043" />
+			<texCoord x="1.000000" y="0.288962" />
+			<texCoord x="0.392585" y="0.608567" />
+			<texCoord x="0.677979" y="1.000000" />
+			<texCoord x="0.731325" y="0.807917" />
+			<texCoord x="0.505335" y="0.900322" />
+			<texCoord x="0.026922" y="0.213514" />
+			<texCoord x="0.788554" y="0.533119" />
+			<texCoord x="0.815476" y="0.213514" />
+			<texCoord x="0.731325" y="0.608567" />
+			<texCoord x="0.538304" y="0.658404" />
+			<texCoord x="0.365662" y="0.758082" />
+			<texCoord x="0.604030" y="0.608567" />
+		</TexCoords>
+		<Indices num="60">
+			<index value="0" />
+			<index value="1" />
+			<index value="2" />
+			<index value="1" />
+			<index value="0" />
+			<index value="3" />
+			<index value="4" />
+			<index value="5" />
+			<index value="6" />
+			<index value="7" />
+			<index value="8" />
+			<index value="9" />
+			<index value="0" />
+			<index value="10" />
+			<index value="3" />
+			<index value="1" />
+			<index value="3" />
+			<index value="11" />
+			<index value="12" />
+			<index value="13" />
+			<index value="14" />
+			<index value="6" />
+			<index value="5" />
+			<index value="15" />
+			<index value="9" />
+			<index value="8" />
+			<index value="16" />
+			<index value="17" />
+			<index value="18" />
+			<index value="19" />
+			<index value="13" />
+			<index value="20" />
+			<index value="14" />
+			<index value="5" />
+			<index value="21" />
+			<index value="15" />
+			<index value="22" />
+			<index value="23" />
+			<index value="24" />
+			<index value="9" />
+			<index value="16" />
+			<index value="25" />
+			<index value="17" />
+			<index value="19" />
+			<index value="26" />
+			<index value="14" />
+			<index value="20" />
+			<index value="27" />
+			<index value="23" />
+			<index value="28" />
+			<index value="29" />
+			<index value="24" />
+			<index value="23" />
+			<index value="29" />
+			<index value="30" />
+			<index value="24" />
+			<index value="29" />
+			<index value="26" />
+			<index value="19" />
+			<index value="31" />
+		</Indices>
+		<Displays num="1">
+			<display primType="triangles" begin="0" size="60" material="0" cullFace="2" />
+		</Displays>
+	</SubMesh>
+</SubMeshs>
+
+</Mesh>
+
+</Maratis>

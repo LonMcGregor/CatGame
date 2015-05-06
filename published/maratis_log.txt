@@ -1,0 +1,10 @@
+Log tracked at level :6
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
+Warn	 TiXmlDocument load failed : Failed to open file line 0	 in xmlMeshLoad	 in d:\maratis_svn\trunk\dev\maratis\common\mfilemanager\mmeshload.cpp
